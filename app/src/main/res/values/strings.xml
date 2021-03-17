@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fruit App</string>
+    <string name="fruit_name">Nama Buah</string>
+    <string name="detail">Detail</string>
+    <string name="list">Menu Utama</string>
+    <string name="about">About</string>
+</resources>
